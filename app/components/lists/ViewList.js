@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Lists } from './lists';
+import { Lists } from './Lists';
 import { app } from '../../app';
 
 export class ViewList extends Component {
